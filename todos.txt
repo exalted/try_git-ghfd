@@ -1,0 +1,8 @@
+- Create a new branch
+- Checkout (i.e., “switch to”) an existing branch  (docsliz)
+- Commit                                           (docsliz)
+- Push [to origin/docsliz]                         (docsliz)
+- Create a PR
+- Pull [from origin/master]                        (master)
+- Pull [from origin/docsvirgin]                    (docsvirgin)
+- Merge conflict (whilst updating from master)     (docsvirgin)
